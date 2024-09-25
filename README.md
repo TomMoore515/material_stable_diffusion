@@ -1,4 +1,4 @@
-# A fork of the Stable Diffusion Cog model that outputs tileable images for use in 3D applications such as [Monaverse](https://monaverse.com)
+# A fork of the Stable Diffusion Cog model that outputs tileable images for use in 3D applications.
 
 This is an implementation of the [Diffusers Stable Diffusion 1.4](https://huggingface.co/CompVis/stable-diffusion-v1-4) as a Cog model. [Cog packages machine learning models as standard containers.](https://github.com/replicate/cog)
 
